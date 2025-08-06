@@ -1,0 +1,1 @@
+inserción de datos de detalle de factura a movimientos de inventario (En este se insertaran datos de la tabla detafac la cual es detalle de factura al movimiento de inventario), en este usamos la cláusula where para poder buscar la factura.
